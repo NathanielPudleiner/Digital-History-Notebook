@@ -117,3 +117,4 @@ A link to your public Digital-History-Notebook repository.
 A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.
 Be sure to answer the questions above as well.
 
+[(https://github.com/NathanielPudleiner/Digital-History-Notebook/blob/main/ada-lovelace.md)]
