@@ -119,3 +119,11 @@ Be sure to answer the questions above as well.
 
 * https://github.com/NathanielPudleiner/Digital-History-Notebook/blob/main/ada-lovelace.md
 * https://github.com/NathanielPudleiner/Digital-History-Notebook/blob/main/alan-turing.md
+- Internet History Timeline:
+- 1969: Creation of ARPANET
+- 1971: The first email is sent by Ray Tomlinson
+- 1989-1991: World Wide Web is created at CERN by Tim-Berners-Lee
+- 1998: Google is Founded
+- 2001: Wikipedia is Launched
+- 2004: Facebook is Launched
+- 2005: Youtube is Launched
