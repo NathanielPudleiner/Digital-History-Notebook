@@ -127,3 +127,9 @@ Be sure to answer the questions above as well.
 - 2001: Wikipedia is Launched
 - 2004: Facebook is Launched
 - 2005: Youtube is Launched
+
+
+
+
+* Final Thoughts:
+  This project made me work out my skills in git file management, and now I have learned how to git push, pull, fetch, and management between local and virtual instances.
